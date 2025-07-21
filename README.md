@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dalu! <br/><a href="https://github.com/dalupack1">SDET</a>, <a href="https://www.linkedin.com/in/dalu-pack/">Quality Assurance Engineer</a></h1>
 
-<h2>👨‍💻 Quality Assurance Automation Projects:</h2>
+<h2>👨‍💻Automation Projects:</h2>
 
 - <b>Selenium Environment Page Example (Python)</b>
   - [Evironment Setup](https://github.com/dalupack1/Cureskin_DP/blob/main/features/environment.py)<b><i>(Chrome Browser, Firefox, Allure, Browserstack)</b></i>
