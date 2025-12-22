@@ -10,9 +10,6 @@
   - [Scenario](https://github.com/dalupack1/PageObjectModel/blob/master/features/tests/link_verification.feature)<b><i>(Steps)</b></i>
 - <b>BrowserStack<i>(Firefox)</i></b>
    - [Browserstack Log](https://automate.browserstack.com/builds/57139641f1afc8bc1546dece9d525a37e65c126c/sessions/5fdaf6e5da0a7680f3b1a754e811fe8d3e975c9c?auth_token=2117e1399ba312065d3822226e0f7215b6bcecc1493529a6ab8499ab6309f62c)<b><i>(Steps)</b></i>
-- <b>Allure Report</b>
-  ![AllureReport](https://github.com/dalupack1/dalu_qa_engineer/assets/103129556/ed98d66b-f2b9-4417-aa6e-705281abdf12)
-
 
 <h2> 🤳 Connect with me: </h2>
 
