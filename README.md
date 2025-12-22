@@ -1,33 +1,64 @@
-<h1>Hi, I'm Dalu Pack! <br/><a href="https://github.com/dalupack1">SDET</a>, <a href="https://www.linkedin.com/in/dalu-pack/">Quality Assurance Engineer</a></h1>
+<h1>Hi, I’m Dalu Pack 👋</h1>
 
-<h2>👨‍💻Automation Projects:</h2>
+<p>
+  <strong>SDET / Quality Assurance Engineer</strong><br />
+  Passionate about test automation, scalable frameworks, and CI/CD quality pipelines.
+</p>
 
-- <b>Selenium Environment Page Example (Python)</b>
-  - [Evironment Setup](https://github.com/dalupack1/Cureskin_DP/blob/main/features/environment.py)<b><i>(Chrome Browser, Firefox, Allure, Browserstack)</b></i>
-- <b>Page Object Model Example<i>(Python, Selenium, Gherkin)</i></b>
-  - [Sample Script](https://github.com/dalupack1/PageObjectModel/commit/dba861ae80037cfde0cff0729ac2981c39a96e8c?diff=unified) <b><i>(Chrome Browser Test Case)</b></i>
-- <b>Feature File(Gherkin)</b>
-  - [Scenario](https://github.com/dalupack1/PageObjectModel/blob/master/features/tests/link_verification.feature)<b><i>(Steps)</b></i>
-- <b>BrowserStack<i>(Firefox)</i></b>
-   - [Browserstack Log](https://automate.browserstack.com/builds/57139641f1afc8bc1546dece9d525a37e65c126c/sessions/5fdaf6e5da0a7680f3b1a754e811fe8d3e975c9c?auth_token=2117e1399ba312065d3822226e0f7215b6bcecc1493529a6ab8499ab6309f62c)<b><i>(Steps)</b></i>
+<p>
+  🤳 <strong>Connect with me:</strong>
+  <a href="https://www.linkedin.com/in/dalu-pack/" target="_blank" rel="noopener noreferrer">
+    LinkedIn
+  </a>
+  ·
+  <a href="https://github.com/dalupack1" target="_blank" rel="noopener noreferrer">
+    GitHub
+  </a>
+</p>
 
-<h2> 🤳 Connect with me: </h2>
+<hr />
 
-[linkedin]: https://linkedin.com/in/dalu-pack
+<h2>👨‍💻 Automation Projects</h2>
 
-<h2>- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Certificates: ...</h2>
+<ul>
+  <li>
+    <strong>Selenium Environment Setup (Python)</strong><br />
+    <a href="https://github.com/dalupack1/Cureskin_DP/blob/main/features/environment.py" target="_blank">
+      Environment Configuration
+    </a>
+    <em>(Chrome, Firefox, Allure, BrowserStack)</em>
+  </li>
 
+  <li>
+    <strong>Page Object Model Framework</strong><br />
+    <a href="https://github.com/dalupack1/PageObjectModel/commit/dba861ae80037cfde0cff0729ac2981c39a96e8c?diff=unified" target="_blank">
+      Sample Script
+    </a>
+    <em>(Python, Selenium, Gherkin – Chrome test case)</em>
+  </li>
 
-<!--
+  <li>
+    <strong>Gherkin Feature Files</strong><br />
+    <a href="https://github.com/dalupack1/PageObjectModel/blob/master/features/tests/link_verification.feature" target="_blank">
+      Scenario Definition
+    </a>
+    <em>(BDD steps)</em>
+  </li>
 
+  <li>
+    <strong>Test Automation Demo (Raw Code Script)
+  </li>
+</ul>
 
+<hr />
 
+<h2>🚀 About Me</h2>
 
-
+<ul>
+  <li>🔭 Currently working on Cloud Engineer Certificate(AWS)</li>
+  <li>🌱 Learning a new language will be my next adventure</li>
+  <li>👯 Open to collaborating on automation or QA tooling projects</li>
+  <li>💬 Ask me about Selenium, BDD, or test framework design</li>
+  <li>📫 Reach me via <a href="https://www.linkedin.com/in/dalu-pack/" target="_blank">LinkedIn</a></li>
+  <li>⚡ Certificates: Cybersecurity Certificate(Google)</li>
+</ul>
