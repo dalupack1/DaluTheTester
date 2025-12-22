@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dalu! <br/><a href="https://github.com/dalupack1">SDET</a>, <a href="https://www.linkedin.com/in/dalu-pack/">Quality Assurance Engineer</a></h1>
+<h1>Hi, I'm Dalu Pack! <br/><a href="https://github.com/dalupack1">SDET</a>, <a href="https://www.linkedin.com/in/dalu-pack/">Quality Assurance Engineer</a></h1>
 
 <h2>👨‍💻Automation Projects:</h2>
 
