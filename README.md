@@ -1,7 +1,7 @@
 <h1>Hi, I’m Dalu Pack 👋</h1>
 
 <p>
-  <strong>SDET / Quality Assurance Engineer</strong><br />
+  <strong>SDET / Test Engineer / Quality Assurance Engineer</strong><br />
   Passionate about test automation, scalable frameworks, and CI/CD quality pipelines.
 </p>
 
@@ -23,12 +23,12 @@
 <ul>
   <li>
     <strong>Test Automation Demo (Raw Code Script)</strong><br />
-    <a href=https://github.com/dalupack1/PracticeAutomationDemo/blob/main/RawAutomationTestDemo.py>
+    <a href="https://github.com/dalupack1/PracticeAutomationDemo/blob/main/RawAutomationTestDemo.py">
       Raw Automation Test Demo
   </li>
   <li>
     <strong>Page Object Model Test Demo</strong><br />
-    <a href=https://github.com/dalupack1/PracticeAutomationDemo/blob/main/RawAutomationTestDemo.py>
+    <a href="https://github.com/dalupack1/PracticeAutomationDemo/tree/main/PomTestDemo">
       POM Test Demo
   <li>
     <strong>Page Object Model Framework</strong><br />
