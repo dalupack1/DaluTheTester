@@ -22,13 +22,14 @@
 
 <ul>
   <li>
-    <strong>Selenium Environment Setup (Python)</strong><br />
-    <a href="https://github.com/dalupack1/Cureskin_DP/blob/main/features/environment.py" target="_blank">
-      Environment Configuration
-    </a>
-    <em>(Chrome, Firefox, Allure, BrowserStack)</em>
+    <strong>Test Automation Demo (Raw Code Script)</strong><br />
+    <a href=https://github.com/dalupack1/PracticeAutomationDemo/blob/main/RawAutomationTestDemo.py>
+      Raw Automation Test Demo
   </li>
-
+  <li>
+    <strong>Page Object Model Test Demo</strong><br />
+    <a href=https://github.com/dalupack1/PracticeAutomationDemo/blob/main/RawAutomationTestDemo.py>
+      POM Test Demo
   <li>
     <strong>Page Object Model Framework</strong><br />
     <a href="https://github.com/dalupack1/PageObjectModel/commit/dba861ae80037cfde0cff0729ac2981c39a96e8c?diff=unified" target="_blank">
@@ -46,8 +47,13 @@
   </li>
 
   <li>
-    <strong>Test Automation Demo (Raw Code Script)
+    <strong>Selenium Environment Setup (Python)</strong><br />
+    <a href="https://github.com/dalupack1/Cureskin_DP/blob/main/features/environment.py" target="_blank">
+      Environment Configuration
+    </a>
+    <em>(Chrome, Firefox, Allure, BrowserStack)</em>
   </li>
+
 </ul>
 
 <hr />
