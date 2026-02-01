@@ -29,7 +29,7 @@
   <li>
     <strong>Page Object Model Test Demo</strong><br />
     <a href="https://github.com/dalupack1/PracticeAutomationDemo/tree/main/PomTestDemo">
-      POM Test Demo
+       <em>(Python, Selenium, Gherkin – Chrome test case)</em>
   <li>
     <strong>Page Object Model Framework</strong><br />
     <a href="https://github.com/dalupack1/PageObjectModel/commit/dba861ae80037cfde0cff0729ac2981c39a96e8c?diff=unified" target="_blank">
