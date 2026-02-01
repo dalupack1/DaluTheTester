@@ -37,7 +37,10 @@
     </a>
     <em>(Python, Selenium, Gherkin – Chrome test case)</em>
   </li>
-
+  <li><strong>PyTest Sample Test Suite</strong><br />
+    <a href="https://github.com/dalupack1/PageObjectModel/commit/dba861ae80037cfde0cff0729ac2981c39a96e8c?diff=unified" target="_blank">
+      Sample Script
+    </li>
   <li>
     <strong>Gherkin Feature Files</strong><br />
     <a href="https://github.com/dalupack1/PageObjectModel/blob/master/features/tests/link_verification.feature" target="_blank">
